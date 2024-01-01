@@ -42,7 +42,7 @@ export const styles = stylex.create({
     },
   },
   regenerateButton: {
-    width: 400,
+    width: 480,
     height: 48,
     borderRadius: 8,
     textTransform: "uppercase",
