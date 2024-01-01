@@ -1,3 +1,5 @@
+// Credit to Tomek Dev for information on color sorting in JS
+// https://tomekdev.com/posts/sorting-colors-in-js
 const colorDistance = (color1: number[], color2: number[]): number => {
   let result = 0;
   for (let i = 0; i < color1.length; i++)
